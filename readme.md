@@ -99,6 +99,7 @@ git clone [repository-url]
 2. Add a "Top Rated" section.
 3. Add a "Genre" bar for best experience.
 4. Enhance UI/UX for a more immersive experience.
+5. Creating a Backend, so that i can hide api keys.
 
 ---
 
