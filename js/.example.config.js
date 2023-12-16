@@ -1,0 +1,1 @@
+API_HASH = "Your AUTH TOKEN from the movie database"
